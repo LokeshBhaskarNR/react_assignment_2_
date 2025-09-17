@@ -1,0 +1,202 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Dont Buy groceries",
+    "completed": false,
+    "description": "Milk, eggs, and bread from the supermarket",
+    "dueDate": "2025-09-20"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Finish React assignment",
+    "completed": true,
+    "description": "Complete the list and conditional rendering task",
+    "dueDate": "2025-09-16"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Call the dentist",
+    "completed": false,
+    "description": "Book an appointment for dental check-up",
+    "dueDate": "2025-09-22"
+  },
+  {
+    "userId": 2,
+    "id": 4,
+    "title": "Pay electricity bill",
+    "completed": true,
+    "description": "Pay via online banking before the due date",
+    "dueDate": "2025-09-15"
+  },
+  {
+    "userId": 2,
+    "id": 5,
+    "title": "Morning workout",
+    "completed": false,
+    "description": "Go for a 30-minute run",
+    "dueDate": "2025-09-16"
+  },
+  {
+    "userId": 2,
+    "id": 6,
+    "title": "Team meeting",
+    "completed": false,
+    "description": "Weekly project sync-up with team",
+    "dueDate": "2025-09-18"
+  },
+  {
+    "userId": 3,
+    "id": 7,
+    "title": "Submit report",
+    "completed": false,
+    "description": "Monthly status report for manager",
+    "dueDate": "2025-09-19"
+  },
+  {
+    "userId": 3,
+    "id": 8,
+    "title": "Water plants",
+    "completed": true,
+    "description": "Indoor and outdoor plants",
+    "dueDate": "2025-09-16"
+  },
+  {
+    "userId": 3,
+    "id": 9,
+    "title": "Book flight tickets",
+    "completed": false,
+    "description": "Tickets for family vacation",
+    "dueDate": "2025-09-25"
+  },
+  {
+    "userId": 4,
+    "id": 10,
+    "title": "Car service",
+    "completed": true,
+    "description": "Annual maintenance at the service center",
+    "dueDate": "2025-09-12"
+  },
+  {
+    "userId": 4,
+    "id": 11,
+    "title": "Doctor appointment",
+    "completed": false,
+    "description": "General health check-up",
+    "dueDate": "2025-09-23"
+  },
+  {
+    "userId": 4,
+    "id": 12,
+    "title": "Read a book",
+    "completed": false,
+    "description": "Finish 50 pages of a novel",
+    "dueDate": "2025-09-21"
+  },
+  {
+    "userId": 5,
+    "id": 13,
+    "title": "Clean the house",
+    "completed": true,
+    "description": "Weekend cleaning and dusting",
+    "dueDate": "2025-09-14"
+  },
+  {
+    "userId": 5,
+    "id": 14,
+    "title": "Update resume",
+    "completed": false,
+    "description": "Add recent project details",
+    "dueDate": "2025-09-26"
+  },
+  {
+    "userId": 5,
+    "id": 15,
+    "title": "Practice coding",
+    "completed": false,
+    "description": "Solve 2 DSA problems",
+    "dueDate": "2025-09-20"
+  },
+  {
+    "userId": 6,
+    "id": 16,
+    "title": "Attend webinar",
+    "completed": false,
+    "description": "React advanced concepts webinar",
+    "dueDate": "2025-09-19"
+  },
+  {
+    "userId": 6,
+    "id": 17,
+    "title": "Laundry",
+    "completed": true,
+    "description": "Wash and fold clothes",
+    "dueDate": "2025-09-13"
+  },
+  {
+    "userId": 6,
+    "id": 18,
+    "title": "Write blog post",
+    "completed": false,
+    "description": "Blog about frontend best practices",
+    "dueDate": "2025-09-28"
+  },
+  {
+    "userId": 7,
+    "id": 19,
+    "title": "Prepare presentation",
+    "completed": false,
+    "description": "Slides for Monday’s meeting",
+    "dueDate": "2025-09-21"
+  },
+  {
+    "userId": 7,
+    "id": 20,
+    "title": "Visit parents",
+    "completed": true,
+    "description": "Weekend family time",
+    "dueDate": "2025-09-15"
+  },
+  {
+    "userId": 7,
+    "id": 21,
+    "title": "Grocery shopping",
+    "completed": false,
+    "description": "Fruits and vegetables for the week",
+    "dueDate": "2025-09-22"
+  },
+  {
+    "userId": 8,
+    "id": 22,
+    "title": "Pay credit card bill",
+    "completed": true,
+    "description": "Online payment",
+    "dueDate": "2025-09-10"
+  },
+  {
+    "userId": 8,
+    "id": 23,
+    "title": "Walk the dog",
+    "completed": false,
+    "description": "Evening walk around the park",
+    "dueDate": "2025-09-18"
+  },
+  {
+    "userId": 8,
+    "id": 24,
+    "title": "Fix bike",
+    "completed": false,
+    "description": "Change tires and check brakes",
+    "dueDate": "2025-09-27"
+  },
+  {
+    "userId": 9,
+    "id": 25,
+    "title": "Organize desk",
+    "completed": false,
+    "description": "Declutter workspace and arrange files",
+    "dueDate": "2025-09-24"
+  }
+]
