@@ -29,8 +29,10 @@ const TodoItem = ({ todo, onClick, onToggle }) => {
 
   return (
     <div className={`todo-item ${todo.completed ? 'completed' : ''} ${isOverdue() ? 'overdue' : ''}`}>
+      
       <div className="todo-item-content" onClick={onClick}>
         <div className="todo-header">
+          <img style={{width:"30px", height:"30px"}} src="/icon.jpg" alt="App Icon" />
           <h3 className="todo-title">{todo.title}</h3>
           <button 
             className={`status-icon ${todo.completed ? 'completed' : 'pending'}`}
